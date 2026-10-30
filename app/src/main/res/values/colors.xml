@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Widget Light Colors -->
+    <color name="widget_background">#F6F5F0</color>
+    <color name="widget_surface">#FFFFFF</color>
+    <color name="widget_text_primary">#141416</color>
+    <color name="widget_text_muted">#71717A</color>
+    <color name="widget_outline">#1E1E24</color>
+    <color name="widget_accent">#2563EB</color>
+    <color name="widget_overdue">#DC2626</color>
+</resources>
